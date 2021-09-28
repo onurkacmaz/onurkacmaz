@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [adt](https://www.adtbilisim.com.tr/)
 
-- 📝 I regularly write articles on [onurkacmaz.com](onurkacmaz.com)
+- 📝 I regularly write articles on [onurkacmaz.com](https://onurkacmaz.com)
 
 - 💬 Ask me about **php, laravel, python, vue, c**
 
